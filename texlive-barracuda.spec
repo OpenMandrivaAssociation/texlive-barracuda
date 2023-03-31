@@ -1,6 +1,6 @@
 Name:		texlive-barracuda
 Version:	63708
-Release:	1
+Release:	2
 Summary:	Draw barcodes with Lua
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/barracuda
