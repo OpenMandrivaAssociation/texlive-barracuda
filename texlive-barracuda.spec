@@ -3,7 +3,7 @@ Version:	63708
 Release:	2
 Summary:	Draw barcodes with Lua
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/barracuda
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/barracuda
 License:	gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/barracuda.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/barracuda.doc.r%{version}.tar.xz
